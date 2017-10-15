@@ -1,0 +1,69 @@
+.banner {
+    height: 250px;
+    background-color: rgba(30, 201, 245, 0.91);
+}
+
+.navbar {
+    width: 100%;
+    height: 50px;
+    display: table;
+    border-spacing: 5px;
+    background-color: lightgrey;
+}
+
+.c1b {
+    display: table-cell;
+    background: #affff6;
+}
+
+.c1 {
+    background: #eee;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.c1l {
+    width: 200px;
+    float: left;
+    height: 200px;
+    background: #a7f4ff;
+}
+
+.c1r {
+    width: 200px;
+    float: right;
+    height: 200px;
+    background: #a7f4ff;
+}
+
+.c1m {
+    height: 200px;
+    background: lightgrey;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.c2 {
+    *overflow: hidden;
+    margin-top: 5px;
+    background: #eee;
+    margin-bottom: 5px;
+}
+
+.c2l {
+    float: left;
+    width: 200px;
+    height: 200px;
+    background: #9adcfe;
+}
+
+.c2r {
+    height: 200px;
+    background: lightgray;
+    margin-left: 20px;
+}
+
+.footer {
+    height: 250px;
+    background: rgba(30, 201, 245, 0.91);
+}
